@@ -48,7 +48,7 @@ qtcreator-*
 .#*
 
 # ccls
-/.ccls-cache/
+.ccls-cache/
 
 # Catkin custom files
 CATKIN_IGNORE

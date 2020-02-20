@@ -1,0 +1,4 @@
+<launch>
+    <node name="pubSub_class_example2B" pkg = "pub_sub_test" type = "pubSub_class_example2B" output = "screen">
+    </node>
+</launch>
